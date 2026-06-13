@@ -1,7 +1,10 @@
 {
   "id": "test_01",
   "title": "SSC Mock Test 1",
-  "instructions": "Each question carries 2 marks. Negative marking is 0.5.",
+  "instructions": "Positive: 2.0, Negative: 0.5",
+  "duration": 60,
+  "positiveMarks": 2.0,
+  "negativeMarks": 0.5,
   "questions": [
     {
       "id": "q1",
