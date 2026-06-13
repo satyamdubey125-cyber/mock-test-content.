@@ -4,7 +4,7 @@
   "instructions": "Positive: 2.0, Negative: 0.0",
   "duration": 60,
   "positiveMarks": 2.0,
-  "negativeMarks": 0.5,
+  "negativeMarks": 0.0,
   "questions": [
     {
       "id": "q1",
