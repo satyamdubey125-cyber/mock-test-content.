@@ -29,6 +29,702 @@
       ],
       "correctOptionIndex": 1,
       "explanation": "Mars is called the Red Planet because of the iron oxide (rust) on its surface, which gives it a reddish appearance."
+    },
+    {
+      "id": "q3",
+      "questionText": "Who was the first President of independent India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "Dr. B.R. Ambedkar"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+    },
+    {
+      "id": "q4",
+      "questionText": "In which year was the Battle of Plassey fought?",
+      "options": [
+        "1526",
+        "1757",
+        "1764",
+        "1857"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Battle of Plassey was a decisive victory of the British East India Company over the Nawab of Bengal and his French allies on 23 June 1757."
+    },
+    {
+      "id": "q5",
+      "questionText": "Which Article of the Indian Constitution did Dr. B.R. Ambedkar term as the 'Heart and Soul' of the Constitution?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 21"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Article 32 provides the right to Constitutional remedies, which is why Dr. Ambedkar called it the heart and soul of the Constitution."
+    },
+    {
+      "id": "q6",
+      "questionText": "Who was the founder of the Maurya Empire?",
+      "options": [
+        "Ashoka",
+        "Bindusara",
+        "Bimbisara",
+        "Chandragupta Maurya"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the help of his mentor Chanakya."
+    },
+    {
+      "id": "q7",
+      "questionText": "When was the Quit India Movement launched?",
+      "options": [
+        "1930",
+        "1942",
+        "1920",
+        "1947"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Quit India Movement, also known as the August Movement, was launched at the Bombay session of the All-India Congress Committee by Mahatma Gandhi on 8 August 1942."
+    },
+    {
+      "id": "q8",
+      "questionText": "What is the minimum age required to become the President of India?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "According to Article 58 of the Constitution, a person must be a citizen of India and have completed 35 years of age to be eligible for election as President."
+    },
+    {
+      "id": "q9",
+      "questionText": "What is the maximum strength of the Lok Sabha as envisaged by the Constitution?",
+      "options": [
+        "545",
+        "552",
+        "550",
+        "560"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The maximum strength of the Lok Sabha is 552 (530 from states, 20 from UTs, and up to 2 Anglo-Indians, though the Anglo-Indian reservation was abolished in 2020)."
+    },
+    {
+      "id": "q10",
+      "questionText": "Who was the first female Governor of an Indian state?",
+      "options": [
+        "Sarojini Naidu",
+        "Sucheta Kriplani",
+        "Indira Gandhi",
+        "Vijaya Lakshmi Pandit"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Sarojini Naidu became the first female governor of an Indian state (Uttar Pradesh) after independence."
+    },
+    {
+      "id": "q11",
+      "questionText": "From which country were the Fundamental Duties in the Indian Constitution borrowed?",
+      "options": [
+        "USA",
+        "UK",
+        "Canada",
+        "USSR"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Fundamental Duties of citizens were added to the Constitution by the 42nd Amendment in 1976, upon the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR."
+    },
+    {
+      "id": "q12",
+      "questionText": "Which is the largest continent in the world by area?",
+      "options": [
+        "Asia",
+        "Africa",
+        "North America",
+        "Europe"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Asia is the largest continent in the world, both in terms of land area and population."
+    },
+    {
+      "id": "q13",
+      "questionText": "Which is the longest river flowing entirely within India?",
+      "options": [
+        "Brahmaputra",
+        "Godavari",
+        "Ganga",
+        "Yamuna"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Ganga is the longest river in India with a total length of 2,525 km."
+    },
+    {
+      "id": "q14",
+      "questionText": "Which Indian state has the longest coastline?",
+      "options": [
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Gujarat"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Gujarat has the longest coastline in India, extending for about 1,600 km along the Arabian Sea."
+    },
+    {
+      "id": "q15",
+      "questionText": "What is the highest mountain peak situated entirely within India?",
+      "options": [
+        "Mount Everest",
+        "Nanda Devi",
+        "Kanchenjunga",
+        "K2 (Godwin Austen)"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "While Kanchenjunga is higher, it lies on the India-Nepal border. Nanda Devi is the highest peak situated completely within the geographical boundaries of India."
+    },
+    {
+      "id": "q16",
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Tropic of Cancer passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+    },
+    {
+      "id": "q17",
+      "questionText": "The 'Blue Revolution' is associated with which of the following?",
+      "options": [
+        "Milk Production",
+        "Fish Production",
+        "Oilseed Production",
+        "Wheat Production"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Blue Revolution refers to the significant growth in the production of fish and marine products."
+    },
+    {
+      "id": "q18",
+      "questionText": "Kaziranga National Park is primarily famous for preserving which animal?",
+      "options": [
+        "One-horned Rhinoceros",
+        "Bengal Tiger",
+        "Asiatic Lion",
+        "Indian Elephant"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Kaziranga National Park in Assam is famous for having the world's largest population of the Indian one-horned rhinoceros."
+    },
+    {
+      "id": "q19",
+      "questionText": "Which is the deepest ocean in the world?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Pacific Ocean is the deepest ocean, housing the Mariana Trench, which is the deepest point on Earth."
+    },
+    {
+      "id": "q20",
+      "questionText": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Perth"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Canberra is the capital city of Australia, chosen as a compromise between rivals Sydney and Melbourne."
+    },
+    {
+      "id": "q21",
+      "questionText": "Which cell organelle is known as the 'powerhouse of the cell'?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Mitochondria are known as the powerhouses of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy."
+    },
+    {
+      "id": "q22",
+      "questionText": "What is the chemical name of Baking Soda?",
+      "options": [
+        "Sodium Carbonate",
+        "Sodium Bicarbonate",
+        "Sodium Chloride",
+        "Calcium Carbonate"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The chemical name of baking soda is Sodium Bicarbonate (NaHCO3)."
+    },
+    {
+      "id": "q23",
+      "questionText": "Which blood group is considered the universal donor?",
+      "options": [
+        "O negative",
+        "AB positive",
+        "A positive",
+        "B negative"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "O negative blood can be transfused into patients of any blood type in emergencies, making it the universal donor type."
+    },
+    {
+      "id": "q24",
+      "questionText": "Which vitamin plays a major role in blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Vitamin K is essential for the modification of certain proteins required for blood coagulation."
+    },
+    {
+      "id": "q25",
+      "questionText": "What is the hardest substance found in the human body?",
+      "options": [
+        "Skull Bone",
+        "Tooth Enamel",
+        "Femur",
+        "Cartilage"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Tooth enamel is the hardest and most highly mineralized substance in the human body."
+    },
+    {
+      "id": "q26",
+      "questionText": "What is the chemical symbol for Gold?",
+      "options": [
+        "Gd",
+        "Go",
+        "Au",
+        "Ag"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The symbol 'Au' comes from the Latin word for gold, 'Aurum'."
+    },
+    {
+      "id": "q27",
+      "questionText": "What is the pH value of pure water at room temperature?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Pure water is neutral, meaning it has a pH of exactly 7."
+    },
+    {
+      "id": "q28",
+      "questionText": "Which inert gas is most commonly filled in standard electric bulbs to prevent the filament from burning out?",
+      "options": [
+        "Helium",
+        "Neon",
+        "Radon",
+        "Argon"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Argon is commonly used in electric bulbs because it is an inert gas and prevents the oxidation of the tungsten filament."
+    },
+    {
+      "id": "q29",
+      "questionText": "Scurvy is caused by the deficiency of which vitamin?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin E",
+        "Vitamin A"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Scurvy is a disease resulting from a lack of Vitamin C (ascorbic acid) in the diet."
+    },
+    {
+      "id": "q30",
+      "questionText": "Which is the largest internal organ/gland in the human body?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Kidney",
+        "Lungs"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The liver is the largest solid internal organ and the largest gland in the human body."
+    },
+    {
+      "id": "q31",
+      "questionText": "The scientific study of cells is called?",
+      "options": [
+        "Histology",
+        "Mycology",
+        "Cytology",
+        "Pathology"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Cytology is the branch of biology that studies the structure, function, and behavior of cells."
+    },
+    {
+      "id": "q32",
+      "questionText": "Which acid is naturally present in lemons and oranges?",
+      "options": [
+        "Acetic Acid",
+        "Citric Acid",
+        "Lactic Acid",
+        "Tartaric Acid"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Citric acid is a weak organic acid found naturally in citrus fruits like lemons, oranges, and limes."
+    },
+    {
+      "id": "q33",
+      "questionText": "Which element is common to all acids?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon",
+        "Sulphur"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "All acids contain hydrogen atoms that can be released as hydrogen ions (H+) when dissolved in water."
+    },
+    {
+      "id": "q34",
+      "questionText": "Which is the heaviest naturally occurring element on Earth?",
+      "options": [
+        "Lead",
+        "Gold",
+        "Osmium",
+        "Uranium"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Uranium, with an atomic number of 92, is the heaviest element that occurs naturally in significant quantities."
+    },
+    {
+      "id": "q35",
+      "questionText": "Which gland is known as the 'Master Gland' of the human body?",
+      "options": [
+        "Thyroid Gland",
+        "Adrenal Gland",
+        "Pituitary Gland",
+        "Pineal Gland"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The pituitary gland is called the master gland because it controls the functions of many other endocrine glands."
+    },
+    {
+      "id": "q36",
+      "questionText": "What is the SI unit of Force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Watt"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Newton (N) is the SI unit of force, named after Sir Isaac Newton."
+    },
+    {
+      "id": "q37",
+      "questionText": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Barometer",
+        "Hygrometer",
+        "Thermometer",
+        "Anemometer"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A barometer is a scientific instrument used to measure atmospheric pressure, also called barometric pressure."
+    },
+    {
+      "id": "q38",
+      "questionText": "A Light Year is a unit used to measure which physical quantity?",
+      "options": [
+        "Time",
+        "Speed",
+        "Intensity of Light",
+        "Distance"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "A light-year is the distance that light travels in a vacuum in one Julian year, used to measure astronomical distances."
+    },
+    {
+      "id": "q39",
+      "questionText": "Sound travels fastest in which of the following mediums?",
+      "options": [
+        "Vacuum",
+        "Air",
+        "Steel (Solid)",
+        "Water (Liquid)"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Sound travels fastest in solids because the molecules in a solid are packed tightly together, transmitting vibrations more quickly."
+    },
+    {
+      "id": "q40",
+      "questionText": "What instrument is used to measure electric current in a circuit?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Multimeter"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An ammeter is a measuring instrument used to measure the current in a circuit, normally connected in series."
+    },
+    {
+      "id": "q41",
+      "questionText": "The rate of change of velocity is known as?",
+      "options": [
+        "Acceleration",
+        "Momentum",
+        "Force",
+        "Inertia"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Acceleration is defined as the rate at which an object changes its velocity over time."
+    },
+    {
+      "id": "q42",
+      "questionText": "What are the primary colors of light?",
+      "options": [
+        "Red, Yellow, Blue",
+        "Red, Green, Blue",
+        "Cyan, Magenta, Yellow",
+        "Black, White, Gray"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The primary colors of light (additive color model) are Red, Green, and Blue. When mixed, they create white light."
+    },
+    {
+      "id": "q43",
+      "questionText": "The immense energy of the Sun is primarily produced by which process?",
+      "options": [
+        "Nuclear Fission",
+        "Chemical Combustion",
+        "Nuclear Fusion",
+        "Radioactive Decay"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Sun's core produces energy via nuclear fusion, primarily fusing hydrogen nuclei into helium."
+    },
+    {
+      "id": "q44",
+      "questionText": "What is the SI unit of Power?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Ampere",
+        "Watt"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Watt (W) is the SI unit of power, defined as one Joule per second."
+    },
+    {
+      "id": "q45",
+      "questionText": "Myopia (short-sightedness) can be corrected by using which type of lens?",
+      "options": [
+        "Concave Lens",
+        "Convex Lens",
+        "Cylindrical Lens",
+        "Bifocal Lens"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A concave lens is used to correct myopia as it diverges incoming light rays, allowing the image to focus properly on the retina."
+    },
+    {
+      "id": "q46",
+      "questionText": "Who is known as the 'Father of Economics'?",
+      "options": [
+        "Karl Marx",
+        "Adam Smith",
+        "John Maynard Keynes",
+        "Alfred Marshall"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Adam Smith, a Scottish economist and philosopher, is considered the Father of Modern Economics for his work 'The Wealth of Nations'."
+    },
+    {
+      "id": "q47",
+      "questionText": "In which year was the Reserve Bank of India (RBI) established?",
+      "options": [
+        "1947",
+        "1950",
+        "1935",
+        "1969"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The RBI was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934."
+    },
+    {
+      "id": "q48",
+      "questionText": "NITI Aayog replaced which of the following former institutions?",
+      "options": [
+        "Planning Commission",
+        "Finance Commission",
+        "National Development Council",
+        "Inter-State Council"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "NITI Aayog (National Institution for Transforming India) was formed on January 1, 2015, replacing the Planning Commission."
+    },
+    {
+      "id": "q49",
+      "questionText": "Where are the headquarters of the United Nations Organization (UNO) located?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New York"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The UN Headquarters complex is situated in the Turtle Bay neighborhood of Manhattan in New York City."
+    },
+    {
+      "id": "q50",
+      "questionText": "Which part of the computer is considered its 'brain'?",
+      "options": [
+        "RAM",
+        "CPU (Central Processing Unit)",
+        "Hard Drive",
+        "Motherboard"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The CPU is considered the brain of the computer as it performs most of the processing inside the computer."
+    },
+    {
+      "id": "q51",
+      "questionText": "In computer memory, 1 Byte is equal to how many bits?",
+      "options": [
+        "4 bits",
+        "10 bits",
+        "8 bits",
+        "16 bits"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A byte is a unit of digital information that most commonly consists of eight bits."
+    },
+    {
+      "id": "q52",
+      "questionText": "Who is credited with inventing the first mechanical calculator?",
+      "options": [
+        "Blaise Pascal",
+        "Charles Babbage",
+        "Ada Lovelace",
+        "Alan Turing"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Blaise Pascal invented the first mechanical calculator, the Pascaline, in the 17th century."
+    },
+    {
+      "id": "q53",
+      "questionText": "Who is the author of the famous 'Harry Potter' book series?",
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "C.S. Lewis"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Harry Potter series of seven fantasy novels was written by British author J.K. Rowling."
+    },
+    {
+      "id": "q54",
+      "questionText": "When is National Sports Day celebrated in India?",
+      "options": [
+        "April 6",
+        "June 21",
+        "August 15",
+        "August 29"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "National Sports Day in India is celebrated on August 29 to mark the birth anniversary of hockey legend Major Dhyan Chand."
+    },
+    {
+      "id": "q55",
+      "questionText": "Who invented the World Wide Web (WWW)?",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Vint Cerf"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Sir Tim Berners-Lee, a British computer scientist, invented the World Wide Web in 1989 while working at CERN."
+    },
+    {
+      "id": "q56",
+      "questionText": "Which is the highest civilian award in India?",
+      "options": [
+        "Padma Vibhushan",
+        "Bharat Ratna",
+        "Param Vir Chakra",
+        "Sahitya Akademi Award"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Bharat Ratna is the highest civilian award of the Republic of India, instituted in 1954."
+    },
+    {
+      "id": "q57",
+      "questionText": "Who was the first Indian woman to win an Olympic medal?",
+      "options": [
+        "Karnam Malleswari",
+        "P.T. Usha",
+        "Mary Kom",
+        "Saina Nehwal"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Weightlifter Karnam Malleswari became the first Indian woman to win an Olympic medal (bronze) at the 2000 Sydney Olympics."
+    },
+    {
+      "id": "q58",
+      "questionText": "In which city is the Nobel Peace Prize awarded?",
+      "options": [
+        "Stockholm",
+        "Geneva",
+        "London",
+        "Oslo"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "While the other Nobel Prizes are awarded in Stockholm, Sweden, the Nobel Peace Prize is awarded in Oslo, Norway."
+    },
+    {
+      "id": "q59",
+      "questionText": "How many bones are there in an adult human body?",
+      "options": [
+        "200",
+        "206",
+        "212",
+        "300"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A typical adult human skeleton consists of 206 bones, though humans are born with around 300 bones which fuse together as they grow."
+    },
+    {
+      "id": "q60",
+      "questionText": "Where is the 'Gateway of India' located?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, overlooking the Arabian Sea."
     }
   ]
 }
