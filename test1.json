@@ -1,0 +1,19 @@
+{
+  "id": "test_01",
+  "title": "SSC Mock Test 1",
+  "instructions": "Each question carries 2 marks. Negative marking is 0.5.",
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "What is the capital of India?",
+      "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "q2",
+      "questionText": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correctOptionIndex": 1
+    }
+  ]
+}
