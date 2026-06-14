@@ -2,7 +2,7 @@
   "id": "test_business_econ_1",
   "title": "NET/JRF Mock Test 1: Utility Analysis",
   "instructions": "Standard Marking: +1.0 for Correct, -0.25 for Wrong.",
-  "duration": 60,
+  "duration": 100,
   "positiveMarks": 1.0,
   "negativeMarks": 0.25,
   "questions": [
