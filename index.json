@@ -5,7 +5,7 @@
     "duration": 60,
     "totalQuestions": 2,
     "testUrl": "https://raw.githubusercontent.com/satyamdubey125-cyber/mock-test-content./refs/heads/main/test1.json"
-  }
+  },
   {
     "id": "test_business_econ_1",
     "title": "NET/JRF Mock Test 1: Utility Analysis",
