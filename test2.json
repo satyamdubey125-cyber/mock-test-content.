@@ -1,0 +1,1210 @@
+{
+  "id": "test_business_econ_1",
+  "title": "NET/JRF Mock Test 1: Utility Analysis",
+  "instructions": "Standard Marking: +1.0 for Correct, -0.25 for Wrong.",
+  "duration": 60,
+  "positiveMarks": 1.0,
+  "negativeMarks": 0.25,
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "According to the Cardinal Utility Approach, utility is measured in:",
+      "options": [
+        "Ranks",
+        "Utils",
+        "Money",
+        "Weights"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Cardinal utility assumes utility can be quantified into measurable units called 'Utils' (proposed by Marshall)."
+    },
+    {
+      "id": "q2",
+      "questionText": "The Law of Diminishing Marginal Utility was first formulated by:",
+      "options": [
+        "Alfred Marshall",
+        "H.H. Gossen",
+        "Leon Walras",
+        "Vilfredo Pareto"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "H.H. Gossen first formulated it, hence it is known as Gossen's First Law."
+    },
+    {
+      "id": "q3",
+      "questionText": "At the point of consumer equilibrium in cardinal utility (for a single commodity), which condition holds true?",
+      "options": [
+        "MUx = Px",
+        "MUx > Px",
+        "MUx < Px",
+        "MUx = 0"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A consumer maximizes satisfaction when the marginal utility of a good equals its price (MUx = Px)."
+    },
+    {
+      "id": "q4",
+      "questionText": "If Total Utility (TU) is maximum, Marginal Utility (MU) is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Increasing"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "When TU reaches its peak (maximum), the addition made by the last unit (MU) is zero."
+    },
+    {
+      "id": "q5",
+      "questionText": "The Indifference Curve approach to utility analysis is based on:",
+      "options": [
+        "Cardinal measurability",
+        "Ordinal measurability",
+        "Constant marginal utility of money",
+        "Independent utilities"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Indifference curve analysis (Hicks and Allen) relies on ordinal utility, meaning consumers can only rank preferences."
+    },
+    {
+      "id": "q6",
+      "questionText": "Which of the following is NOT a property of standard indifference curves?",
+      "options": [
+        "Convex to the origin",
+        "Slope downwards from left to right",
+        "Intersect each other",
+        "Higher IC represents higher satisfaction"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Indifference curves never intersect each other. If they did, it would violate the axiom of transitivity."
+    },
+    {
+      "id": "q7",
+      "questionText": "The slope of an Indifference Curve is measured by the:",
+      "options": [
+        "Marginal Rate of Technical Substitution",
+        "Marginal Rate of Substitution",
+        "Price Ratio",
+        "Income elasticity"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The slope of an IC is the Marginal Rate of Substitution (MRSxy), which indicates how much of Y is sacrificed for an extra unit of X."
+    },
+    {
+      "id": "q8",
+      "questionText": "If two goods are perfect substitutes, their indifference curve will be:",
+      "options": [
+        "L-shaped",
+        "A downward sloping straight line",
+        "Convex to the origin",
+        "Concave to the origin"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "For perfect substitutes, the Marginal Rate of Substitution is constant, resulting in a straight-line IC."
+    },
+    {
+      "id": "q9",
+      "questionText": "If two goods are perfect complements, their indifference curve will be:",
+      "options": [
+        "A straight line",
+        "Convex to origin",
+        "L-shaped",
+        "Upward sloping"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Perfect complements are consumed in fixed proportions (e.g., right and left shoes), making the IC right-angled or L-shaped."
+    },
+    {
+      "id": "q10",
+      "questionText": "The slope of the budget line is determined by:",
+      "options": [
+        "The ratio of marginal utilities",
+        "The level of consumer income",
+        "The ratio of the prices of two goods",
+        "The marginal rate of substitution"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The slope of the budget line (price line) is Px/Py (the ratio of the prices of good X and good Y)."
+    },
+    {
+      "id": "q11",
+      "questionText": "At the optimal consumption point, the consumer's indifference curve is:",
+      "options": [
+        "Intersecting the budget line",
+        "Tangent to the budget line",
+        "Below the budget line",
+        "Parallel to the budget line"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Equilibrium occurs where the highest attainable IC is tangent to the budget line, meaning MRSxy = Px/Py."
+    },
+    {
+      "id": "q12",
+      "questionText": "The 'Income Effect' for a normal good is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Unpredictable"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "For normal goods, an increase in real income leads to an increase in quantity demanded (positive income effect)."
+    },
+    {
+      "id": "q13",
+      "questionText": "Giffen goods are a special case of:",
+      "options": [
+        "Normal goods",
+        "Veblen goods",
+        "Inferior goods",
+        "Substitute goods"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "All Giffen goods are inferior goods where the negative income effect outweighs the positive substitution effect."
+    },
+    {
+      "id": "q14",
+      "questionText": "In the case of a Giffen good, the demand curve is:",
+      "options": [
+        "Downward sloping",
+        "Upward sloping",
+        "Horizontal",
+        "Vertical"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Because the price effect is positive (higher price = higher demand), the demand curve for a Giffen good slopes upward."
+    },
+    {
+      "id": "q15",
+      "questionText": "The substitution effect is always:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Equal to income effect"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The substitution effect is always negative; a fall in relative price always leads to a higher quantity demanded."
+    },
+    {
+      "id": "q16",
+      "questionText": "Who introduced the 'Revealed Preference Theory'?",
+      "options": [
+        "J.R. Hicks",
+        "Alfred Marshall",
+        "Paul Samuelson",
+        "Eugen Slutsky"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Paul Samuelson developed the Revealed Preference Theory based on observed consumer behavior in the market."
+    },
+    {
+      "id": "q17",
+      "questionText": "The Weak Axiom of Revealed Preference (WARP) implies:",
+      "options": [
+        "Transitivity",
+        "Consistency",
+        "Convexity",
+        "Non-satiation"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "WARP ensures consistency: if A is revealed preferred to B, then B cannot be revealed preferred to A in the same circumstances."
+    },
+    {
+      "id": "q18",
+      "questionText": "According to Hicks, the substitution effect is measured along:",
+      "options": [
+        "The same indifference curve",
+        "A higher indifference curve",
+        "A lower indifference curve",
+        "The income consumption curve"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Hicksian substitution keeps utility constant, moving the consumer along the same indifference curve."
+    },
+    {
+      "id": "q19",
+      "questionText": "Slutsky's substitution effect keeps which of the following constant?",
+      "options": [
+        "Real income (Utility)",
+        "Purchasing power (Cost)",
+        "Nominal Income",
+        "Relative Prices"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Slutsky compensates the consumer to keep their initial bundle just affordable, maintaining purchasing power (cost difference)."
+    },
+    {
+      "id": "q20",
+      "questionText": "Consumer Surplus is the difference between:",
+      "options": [
+        "What a consumer is willing to pay and what they actually pay",
+        "Total utility and marginal utility",
+        "Price and average cost",
+        "Income and expenditure"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Consumer surplus = Maximum Willingness to Pay - Actual Market Price paid."
+    },
+    {
+      "id": "q21",
+      "questionText": "The concept of Consumer Surplus was introduced by:",
+      "options": [
+        "Adam Smith",
+        "David Ricardo",
+        "Alfred Marshall",
+        "J.M. Keynes"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Alfred Marshall formulated and popularized the concept of Consumer Surplus in utility terms."
+    },
+    {
+      "id": "q22",
+      "questionText": "If the demand curve is perfectly elastic, consumer surplus will be:",
+      "options": [
+        "Infinite",
+        "Zero",
+        "Equal to total revenue",
+        "Negative"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "For a perfectly elastic (horizontal) demand curve, willingness to pay equals the market price exactly, so surplus is zero."
+    },
+    {
+      "id": "q23",
+      "questionText": "Which utility function implies a constant elasticity of substitution?",
+      "options": [
+        "Cobb-Douglas",
+        "Leontief",
+        "CES",
+        "All of the above"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Cobb-Douglas (CES=1), Leontief (CES=0), and the general CES function all have constant elasticity of substitution."
+    },
+    {
+      "id": "q24",
+      "questionText": "In a Cobb-Douglas utility function U = X^a * Y^b, the income expansion path is:",
+      "options": [
+        "A parabola",
+        "A straight line from the origin",
+        "Horizontal",
+        "Vertical"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Cobb-Douglas is a homothetic function, meaning the income expansion path (Engel curve) is a straight line through the origin."
+    },
+    {
+      "id": "q25",
+      "questionText": "Engel's Law states that as income increases, the proportion of income spent on food:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "First decreases, then increases"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ernst Engel observed that the budget share dedicated to food falls as a household's income rises (income elasticity < 1)."
+    },
+    {
+      "id": "q26",
+      "questionText": "For a Veblen good, the demand curve is:",
+      "options": [
+        "Downward sloping",
+        "Upward sloping",
+        "Horizontal",
+        "U-shaped"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Veblen goods (status symbols) have a snob appeal; higher prices make them more desirable, leading to an upward-sloping demand."
+    },
+    {
+      "id": "q27",
+      "questionText": "The Bandwagon effect makes the market demand curve:",
+      "options": [
+        "More elastic",
+        "Less elastic",
+        "Perfectly inelastic",
+        "Positively sloped"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "When consumers buy because others are buying, a price drop increases demand more than usual, making it flatter (more elastic)."
+    },
+    {
+      "id": "q28",
+      "questionText": "The Snob effect refers to a situation where a consumer:",
+      "options": [
+        "Buys more when others buy more",
+        "Buys less when others buy more",
+        "Buys only essential goods",
+        "Ignores the price"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The snob effect is the desire for exclusivity; demand falls if too many other people are consuming the good."
+    },
+    {
+      "id": "q29",
+      "questionText": "Which of the following breaks the axiom of non-satiation (more is better)?",
+      "options": [
+        "Economic 'Bads'",
+        "Normal goods",
+        "Superior goods",
+        "Neutral goods"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Economic 'Bads' (like pollution or garbage) reduce utility, meaning more is worse, violating non-satiation."
+    },
+    {
+      "id": "q30",
+      "questionText": "If the Marginal Utility of good X is negative, it implies that good X is:",
+      "options": [
+        "A normal good",
+        "An inferior good",
+        "A Giffen good",
+        "An economic 'bad'"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Negative marginal utility means consuming an extra unit decreases total utility, characteristic of a 'bad' or a good consumed beyond satiation."
+    },
+    {
+      "id": "q31",
+      "questionText": "Gossen's Second Law is also known as:",
+      "options": [
+        "Law of Demand",
+        "Law of Equi-Marginal Utility",
+        "Law of Diminishing Returns",
+        "Law of Supply"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "It states consumers maximize utility when the ratio of MU to price is equal across all goods (MUx/Px = MUy/Py)."
+    },
+    {
+      "id": "q32",
+      "questionText": "Under the Marshallian utility approach, the marginal utility of money is assumed to be:",
+      "options": [
+        "Increasing",
+        "Decreasing",
+        "Constant",
+        "Zero"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Marshall assumed the marginal utility of money remains constant to use it as a measuring rod for utility."
+    },
+    {
+      "id": "q33",
+      "questionText": "The Price Consumption Curve (PCC) traces the locus of equilibrium points when:",
+      "options": [
+        "Income changes",
+        "Price of one good changes",
+        "Prices of both goods change",
+        "Preferences change"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "PCC shows how the consumer's optimal bundle changes as the price of one good varies, holding income and other prices constant."
+    },
+    {
+      "id": "q34",
+      "questionText": "If the Price Consumption Curve (PCC) is horizontal, the price elasticity of demand is:",
+      "options": [
+        "Zero",
+        "Unitary (1)",
+        "Greater than 1",
+        "Less than 1"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A horizontal PCC implies total expenditure on the good remains constant despite price changes, meaning elasticity is exactly 1."
+    },
+    {
+      "id": "q35",
+      "questionText": "The Income Consumption Curve (ICC) for two normal goods slopes:",
+      "options": [
+        "Upward to the right",
+        "Downward to the right",
+        "Vertical",
+        "Horizontal"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "If both are normal goods, an increase in income leads to increased consumption of both, creating an upward-sloping ICC."
+    },
+    {
+      "id": "q36",
+      "questionText": "If good X is an inferior good and Y is a normal good, the ICC bends:",
+      "options": [
+        "Towards the X-axis",
+        "Towards the Y-axis",
+        "Downwards",
+        "Straight 45-degree line"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "As income rises, consumption of inferior good X falls while normal good Y rises, bending the curve backward toward the Y-axis."
+    },
+    {
+      "id": "q37",
+      "questionText": "The Slutsky equation decomposes a price change into:",
+      "options": [
+        "Income and substitution effects",
+        "Direct and indirect effects",
+        "Price and quantity effects",
+        "Real and nominal effects"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The Slutsky equation mathematically splits the total price effect into the substitution effect and the income effect."
+    },
+    {
+      "id": "q38",
+      "questionText": "If the income elasticity of demand is greater than 1, the good is a:",
+      "options": [
+        "Necessity",
+        "Luxury",
+        "Inferior good",
+        "Giffen good"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Luxuries have an income elasticity greater than 1, meaning their demand grows proportionally faster than income."
+    },
+    {
+      "id": "q39",
+      "questionText": "Cross elasticity of demand between complementary goods is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Infinite"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "If the price of a complement (e.g., printers) goes up, the demand for the other (ink) goes down, making it negative."
+    },
+    {
+      "id": "q40",
+      "questionText": "For perfect substitutes, the cross elasticity of demand is:",
+      "options": [
+        "Zero",
+        "Negative",
+        "Positive and finite",
+        "Positive and infinite"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "A slight change in relative price shifts all consumption to the cheaper substitute, implying infinite cross elasticity."
+    },
+    {
+      "id": "q41",
+      "questionText": "In the Neumann-Morgenstern utility theory, choices are made under:",
+      "options": [
+        "Certainty",
+        "Risk and uncertainty",
+        "Perfect competition",
+        "Monopoly"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The N-M theory of expected utility explains how individuals make decisions in situations involving probabilities and risk."
+    },
+    {
+      "id": "q42",
+      "questionText": "A risk-averse individual's utility function of wealth is:",
+      "options": [
+        "Convex",
+        "Concave",
+        "Linear",
+        "S-shaped"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Risk aversion implies diminishing marginal utility of wealth, which mathematically corresponds to a concave utility function."
+    },
+    {
+      "id": "q43",
+      "questionText": "A risk-neutral individual's utility function of wealth is:",
+      "options": [
+        "Convex",
+        "Concave",
+        "Linear",
+        "Logarithmic"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "For a risk-neutral person, the marginal utility of wealth is constant, making the utility function a straight line (linear)."
+    },
+    {
+      "id": "q44",
+      "questionText": "A risk-loving individual prefers:",
+      "options": [
+        "A certain outcome over a gamble with equal expected value",
+        "A gamble over a certain outcome with equal expected value",
+        "Not to play at all",
+        "To minimize variance"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A risk lover (convex utility function) prefers the gamble due to the high utility attached to the potential winning tail."
+    },
+    {
+      "id": "q45",
+      "questionText": "The certainty equivalent is the guaranteed amount of money that yields the same utility as:",
+      "options": [
+        "The maximum possible payoff",
+        "The expected value of a gamble",
+        "The gamble itself",
+        "Zero payoff"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Certainty Equivalent (CE) is the certain sum that makes the individual indifferent between taking the sum and playing the gamble."
+    },
+    {
+      "id": "q46",
+      "questionText": "Risk premium is defined as:",
+      "options": [
+        "Expected Value - Certainty Equivalent",
+        "Certainty Equivalent - Expected Value",
+        "Variance - Expected Value",
+        "Maximum payoff - Minimum payoff"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The risk premium is the amount of expected value a risk-averse person is willing to give up to avoid the risk entirely."
+    },
+    {
+      "id": "q47",
+      "questionText": "The 'St. Petersburg Paradox' was resolved by introducing the concept of:",
+      "options": [
+        "Expected Value",
+        "Expected Utility",
+        "Subjective Probability",
+        "Loss Aversion"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Daniel Bernoulli resolved it by showing that people maximize Expected Utility (diminishing marginal utility of money), not just Expected Value."
+    },
+    {
+      "id": "q48",
+      "questionText": "In expected utility theory, the 'Independence Axiom' implies:",
+      "options": [
+        "Utilities are independent of probabilities",
+        "Preferences between two lotteries are unchanged if mixed with a third",
+        "Events are statistically independent",
+        "Utility is independent of income"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The independence axiom states that mixing two lotteries with a third irrelevant lottery doesn't change the preference ranking between the first two."
+    },
+    {
+      "id": "q49",
+      "questionText": "The Allais Paradox is a violation of which axiom in Expected Utility Theory?",
+      "options": [
+        "Completeness",
+        "Transitivity",
+        "Independence Axiom",
+        "Continuity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Maurice Allais demonstrated that humans systematically violate the Independence Axiom when probabilities approach certainty."
+    },
+    {
+      "id": "q50",
+      "questionText": "Prospect Theory, which modifies expected utility to account for loss aversion, was developed by:",
+      "options": [
+        "Kahneman and Tversky",
+        "Von Neumann and Morgenstern",
+        "Paul Samuelson",
+        "Milton Friedman"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Daniel Kahneman and Amos Tversky developed Prospect Theory to describe real-world behavioral deviations from expected utility."
+    },
+    {
+      "id": "q51",
+      "questionText": "In Quasilinear utility (e.g., U(X,Y) = V(X) + Y), the income effect for good X is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Constant"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Quasilinear preferences exhibit a zero income effect for the non-linear good (X); any extra income is entirely spent on good Y."
+    },
+    {
+      "id": "q52",
+      "questionText": "For a Quasilinear utility function, the indifference curves are:",
+      "options": [
+        "Parallel vertically",
+        "Parallel horizontally",
+        "L-shaped",
+        "Straight lines"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "They are parallel shifts along the axis of the linear good (usually vertically along the Y-axis), meaning MRS depends only on X."
+    },
+    {
+      "id": "q53",
+      "questionText": "Which utility function generates linear Engel curves?",
+      "options": [
+        "Quasilinear",
+        "Homothetic",
+        "Leontief only",
+        "Cobb-Douglas only"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "All homothetic utility functions (including C-D, Leontief, CES) generate straight-line rays from the origin as Engel curves."
+    },
+    {
+      "id": "q54",
+      "questionText": "The mathematical condition for convexity of an indifference curve is a:",
+      "options": [
+        "Constant MRS",
+        "Diminishing MRS",
+        "Increasing MRS",
+        "Zero MRS"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A diminishing Marginal Rate of Substitution (MRS) ensures the IC bends toward the origin (convex)."
+    },
+    {
+      "id": "q55",
+      "questionText": "If the Marginal Rate of Substitution (MRSxy) is increasing, the indifference curve is:",
+      "options": [
+        "Convex",
+        "Concave",
+        "Straight line",
+        "L-shaped"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "An increasing MRS implies the consumer is willing to give up more Y for X as they get more X, making the curve concave (corner solutions)."
+    },
+    {
+      "id": "q56",
+      "questionText": "A corner solution in consumer equilibrium occurs when:",
+      "options": [
+        "The consumer buys both goods equally",
+        "The consumer buys only one of the goods",
+        "Indifference curves intersect",
+        "Income is zero"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A corner solution happens when the IC is steeper or flatter than the budget line everywhere, so the consumer spends all income on one good."
+    },
+    {
+      "id": "q57",
+      "questionText": "Corner solutions are typical when goods are:",
+      "options": [
+        "Perfect Complements",
+        "Perfect Substitutes",
+        "Giffen Goods",
+        "Veblen Goods"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "For perfect substitutes, if price ratios don't exactly match the constant MRS, the consumer will buy 100% of the relatively cheaper good."
+    },
+    {
+      "id": "q58",
+      "questionText": "Lexicographic preferences violate which standard axiom of consumer choice?",
+      "options": [
+        "Transitivity",
+        "Completeness",
+        "Continuity",
+        "Non-satiation"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Lexicographic (dictionary order) preferences cannot be represented by a continuous utility function, violating the Continuity axiom."
+    },
+    {
+      "id": "q59",
+      "questionText": "The Strong Axiom of Revealed Preference (SARP) rules out:",
+      "options": [
+        "Giffen goods",
+        "Intransitive choices (cycles)",
+        "Corner solutions",
+        "Income effects"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "SARP extends WARP to multiple steps, ensuring that choice sequences don't form cycles (e.g., A > B > C > A), ensuring transitivity."
+    },
+    {
+      "id": "q60",
+      "questionText": "If a consumer is in equilibrium and the price of good X falls, the new equilibrium lies on a:",
+      "options": [
+        "Higher IC",
+        "Lower IC",
+        "Same IC",
+        "Below the budget line"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "A price fall expands the budget set, allowing the consumer to reach a higher indifference curve and attain more utility."
+    },
+    {
+      "id": "q61",
+      "questionText": "In an Edgeworth Box, the set of all Pareto efficient allocations is called the:",
+      "options": [
+        "Offer curve",
+        "Contract curve",
+        "Production possibility frontier",
+        "Isoquant"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Contract Curve represents all points where the indifference curves of the two consumers are tangent (Pareto optimal)."
+    },
+    {
+      "id": "q62",
+      "questionText": "At any point on the contract curve in an exchange economy:",
+      "options": [
+        "MRS of person A > MRS of person B",
+        "MRS of person A < MRS of person B",
+        "MRS of person A = MRS of person B",
+        "Utilities are equal"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Pareto efficiency in exchange requires the marginal rates of substitution to be identical for both consumers."
+    },
+    {
+      "id": "q63",
+      "questionText": "Walras' Law states that:",
+      "options": [
+        "Supply creates its own demand",
+        "Value of excess demands sums to zero",
+        "Prices are always rigid",
+        "Utility cannot be measured"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Walras' Law implies that if n-1 markets are in equilibrium, the nth market must also be in equilibrium (total excess demand value is zero)."
+    },
+    {
+      "id": "q64",
+      "questionText": "The First Fundamental Theorem of Welfare Economics states that:",
+      "options": [
+        "All markets are fair",
+        "Competitive equilibrium is Pareto efficient",
+        "Monopolies maximize welfare",
+        "Wealth should be distributed equally"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Under certain conditions, any Walrasian competitive equilibrium results in a Pareto efficient allocation of resources."
+    },
+    {
+      "id": "q65",
+      "questionText": "The Second Fundamental Theorem of Welfare Economics implies that:",
+      "options": [
+        "Any Pareto efficient allocation can be achieved via competitive markets given lump-sum transfers",
+        "Free markets lead to inequality",
+        "Efficiency is impossible",
+        "Taxes create deadweight loss"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "It separates equity from efficiency, showing you can reach any efficient point by first redistributing initial endowments."
+    },
+    {
+      "id": "q66",
+      "questionText": "Which of the following is a limitation of Cardinal Utility analysis?",
+      "options": [
+        "It assumes money has constant marginal utility",
+        "It ignores the substitution effect",
+        "It relies on introspective psychology",
+        "All of the above"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Cardinal utility has several flaws: unmeasurable utils, assumption of constant MU of money, and psychological subjectivity."
+    },
+    {
+      "id": "q67",
+      "questionText": "The separation of price effect into income and substitution effects was first introduced mathematically by:",
+      "options": [
+        "Slutsky",
+        "Hicks",
+        "Marshall",
+        "Samuelson"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Eugen Slutsky first published the mathematical decomposition in 1915, though Hicks popularized a similar version later."
+    },
+    {
+      "id": "q68",
+      "questionText": "In the Hicksian decomposition, real income is kept constant by adjusting:",
+      "options": [
+        "Prices",
+        "Money Income",
+        "Utility level",
+        "Marginal substitution"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Hicks adjusts nominal money income to ensure the consumer can just touch their original indifference curve (constant utility/real income)."
+    },
+    {
+      "id": "q69",
+      "questionText": "Compensating Variation is the change in income needed to:",
+      "options": [
+        "Restore the consumer to their original utility level after a price change",
+        "Move the consumer to a new utility level before a price change",
+        "Keep prices constant",
+        "Maximize consumer surplus"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Compensating variation measures how much money must be taken/given to return the consumer to their old indifference curve after a change."
+    },
+    {
+      "id": "q70",
+      "questionText": "Equivalent Variation measures:",
+      "options": [
+        "Income change at old prices to reach the new utility level",
+        "Income change at new prices to reach old utility level",
+        "Total expenditure change",
+        "Change in substitution effect"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Equivalent variation asks: At original prices, how much income change is equivalent to the proposed price change in terms of utility impact?"
+    },
+    {
+      "id": "q71",
+      "questionText": "For a normal good, which is largest for a price decrease?",
+      "options": [
+        "Marshallian Consumer Surplus",
+        "Compensating Variation",
+        "Equivalent Variation",
+        "They are all equal"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "For a normal good (price drop), Equivalent Variation > Marshallian Surplus > Compensating Variation."
+    },
+    {
+      "id": "q72",
+      "questionText": "If demand is perfectly inelastic, the substitution effect is:",
+      "options": [
+        "Positive",
+        "Zero",
+        "Negative",
+        "Infinite"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A vertical (perfectly inelastic) demand curve implies no response to price changes, hence the substitution effect is zero (e.g., Leontief preferences)."
+    },
+    {
+      "id": "q73",
+      "questionText": "A characteristic of 'Network Externalities' is that utility depends on:",
+      "options": [
+        "The price of the good alone",
+        "The number of other people consuming the good",
+        "The income of the consumer",
+        "The scarcity of the good"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Network externalities (like phones or social media) mean the product's value increases as more people use it."
+    },
+    {
+      "id": "q74",
+      "questionText": "If the Engel curve is downward sloping, the good is:",
+      "options": [
+        "A normal good",
+        "A luxury good",
+        "An inferior good",
+        "A necessity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A downward-sloping Engel curve indicates that as income increases, the quantity demanded decreases (inferior good)."
+    },
+    {
+      "id": "q75",
+      "questionText": "According to the ordinal approach, utility functions are unique up to a:",
+      "options": [
+        "Positive monotonic transformation",
+        "Linear transformation",
+        "Logarithmic transformation",
+        "Scalar multiplication"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ordinal utility rankings remain unchanged under any strictly increasing (positive monotonic) transformation, like squaring or taking logs."
+    },
+    {
+      "id": "q76",
+      "questionText": "If U(X,Y) = XY, then V(X,Y) = X^2 * Y^2 represents:",
+      "options": [
+        "Different preferences",
+        "The exact same ordinal preferences",
+        "Complementary goods",
+        "A Giffen good scenario"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Since squaring is a positive monotonic transformation for positive values, the underlying IC map and preferences are identical."
+    },
+    {
+      "id": "q77",
+      "questionText": "The demand curve derived from the Indifference Curve approach is:",
+      "options": [
+        "Marshallian demand curve",
+        "Hicksian demand curve",
+        "Slutsky demand curve",
+        "Revealed preference curve"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The standard demand curve derived by pivoting the budget line (maximizing utility subject to budget) is the uncompensated or Marshallian demand."
+    },
+    {
+      "id": "q78",
+      "questionText": "The Hicksian demand curve is also known as the:",
+      "options": [
+        "Uncompensated demand curve",
+        "Compensated demand curve",
+        "Income demand curve",
+        "Engel curve"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "It's called compensated because it adjusts income to keep utility constant, isolating only the substitution effect."
+    },
+    {
+      "id": "q79",
+      "questionText": "For a normal good, the Hicksian demand curve is ________ than the Marshallian demand curve.",
+      "options": [
+        "Flatter (more elastic)",
+        "Steeper (less elastic)",
+        "Exactly the same",
+        "Upward sloping"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "For normal goods, Marshallian demand includes both substitution and income effects, making it more responsive (flatter) than the Hicksian curve."
+    },
+    {
+      "id": "q80",
+      "questionText": "Roy's Identity relates:",
+      "options": [
+        "Indirect utility function to Marshallian demand",
+        "Expenditure function to Hicksian demand",
+        "Direct utility to Slutsky equation",
+        "Cost function to production"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Roy's Identity allows one to derive the Marshallian demand function by differentiating the indirect utility function."
+    },
+    {
+      "id": "q81",
+      "questionText": "Shephard's Lemma is used to derive:",
+      "options": [
+        "Marshallian demand from Indirect Utility",
+        "Hicksian demand from Expenditure function",
+        "Supply curve from cost",
+        "Profit function"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Taking the partial derivative of the expenditure function with respect to a price yields the Hicksian (compensated) demand for that good."
+    },
+    {
+      "id": "q82",
+      "questionText": "The Indirect Utility Function shows maximum utility as a function of:",
+      "options": [
+        "Quantities X and Y",
+        "Prices and Income",
+        "Inputs and Outputs",
+        "Wages and Rent"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "V(P, M) gives the maximum utility achievable given market prices (P) and the consumer's income (M)."
+    },
+    {
+      "id": "q83",
+      "questionText": "The Expenditure Function is the inverse of the:",
+      "options": [
+        "Direct utility function",
+        "Indirect utility function",
+        "Production function",
+        "Hicksian demand"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The expenditure function E(P, U) is mathematically the dual (inverse) of the indirect utility function V(P, M)."
+    },
+    {
+      "id": "q84",
+      "questionText": "If goods X and Y are complements, their cross-price substitution effect is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Equal to income effect"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "If they are complements, a rise in the price of Y makes you buy less Y and therefore less X, making the substitution effect term negative."
+    },
+    {
+      "id": "q85",
+      "questionText": "The 'Water-Diamond Paradox' highlights the difference between:",
+      "options": [
+        "Total utility and marginal utility",
+        "Price and cost",
+        "Income and wealth",
+        "Supply and demand curves"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Adam Smith's paradox is solved by noting diamonds have high Marginal Utility (scarcity) but low Total Utility, while water has high TU but low MU."
+    },
+    {
+      "id": "q86",
+      "questionText": "Which of the following is NOT an assumption of the Cardinal Utility approach?",
+      "options": [
+        "Rationality",
+        "Independent utilities",
+        "Constant marginal utility of money",
+        "Diminishing marginal rate of substitution"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Diminishing MRS is an assumption of the Ordinal (Indifference Curve) approach, not the Cardinal approach."
+    },
+    {
+      "id": "q87",
+      "questionText": "In the context of utility, what does 'satiation' mean?",
+      "options": [
+        "The consumer has no money left",
+        "Marginal utility is zero",
+        "Prices are too high",
+        "Total utility is zero"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Satiation is the point of bliss where consuming an extra unit yields zero additional satisfaction (MU=0)."
+    },
+    {
+      "id": "q88",
+      "questionText": "If the income elasticity is negative, the good is:",
+      "options": [
+        "Normal",
+        "Luxury",
+        "Inferior",
+        "Necessity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "A negative income elasticity means demand drops when income rises, defining an inferior good."
+    },
+    {
+      "id": "q89",
+      "questionText": "The Marginal Rate of Substitution (MRSxy) mathematically equals:",
+      "options": [
+        "MUy / MUx",
+        "MUx / MUy",
+        "Px / Py",
+        "Py / Px"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The slope of the IC (MRS) is the ratio of the marginal utilities: MUx / MUy."
+    },
+    {
+      "id": "q90",
+      "questionText": "At the bliss point in an indifference map:",
+      "options": [
+        "The consumer maximizes income",
+        "Utility is maximized unconditionally",
+        "Prices equal zero",
+        "MRS is infinite"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The bliss point (or satiation point) is a global maximum of utility; moving in any direction from it reduces utility."
+    },
+    {
+      "id": "q91",
+      "questionText": "A consumer spends all income on two goods, X and Y. If MUx/Px > MUy/Py, the consumer should:",
+      "options": [
+        "Buy more X and less Y",
+        "Buy more Y and less X",
+        "Stop buying",
+        "Increase income"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Because X yields more utility per dollar spent, the consumer should reallocate budget to buy more X until the ratios equalize."
+    },
+    {
+      "id": "q92",
+      "questionText": "The concept of 'Asymmetric Information' in economics was pioneered by:",
+      "options": [
+        "George Akerlof",
+        "John Nash",
+        "Paul Samuelson",
+        "Adam Smith"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "George Akerlof (Market for Lemons) pioneered the study of asymmetric information where one party knows more than the other."
+    },
+    {
+      "id": "q93",
+      "questionText": "Moral Hazard occurs:",
+      "options": [
+        "Before a transaction",
+        "After a transaction",
+        "During price setting",
+        "In perfect competition"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Moral hazard occurs post-contract, when one party alters their behavior (takes more risk) because the other party bears the cost."
+    },
+    {
+      "id": "q94",
+      "questionText": "Adverse Selection occurs:",
+      "options": [
+        "Before a transaction",
+        "After a transaction",
+        "In a monopoly",
+        "When there is perfect information"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Adverse selection happens pre-contract, where bad risks are more likely to participate in a market (like sick people buying health insurance)."
+    },
+    {
+      "id": "q95",
+      "questionText": "Signaling is a market mechanism used to overcome:",
+      "options": [
+        "Monopoly power",
+        "Asymmetric information",
+        "Externalities",
+        "Public goods problem"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Signaling (e.g., getting a college degree) is a way for the informed party to credibly reveal private information to the uninformed party."
+    },
+    {
+      "id": "q96",
+      "questionText": "Which model is associated with oligopoly price rigidity?",
+      "options": [
+        "Cournot model",
+        "Stackelberg model",
+        "Kinked demand curve model",
+        "Bertrand model"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Paul Sweezy's Kinked Demand Curve model explains why prices tend to remain stable (rigid) in oligopolistic markets."
+    },
+    {
+      "id": "q97",
+      "questionText": "In the Cournot model of duopoly, firms simultaneously choose:",
+      "options": [
+        "Prices",
+        "Quantities",
+        "Advertising levels",
+        "Product quality"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "In the Cournot model, firms compete by simultaneously choosing their output quantities."
+    },
+    {
+      "id": "q98",
+      "questionText": "In the Bertrand model of duopoly, firms simultaneously choose:",
+      "options": [
+        "Quantities",
+        "Prices",
+        "Market share",
+        "Location"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "In Bertrand competition, firms compete on price. If products are identical, price is driven down to marginal cost."
+    },
+    {
+      "id": "q99",
+      "questionText": "A Nash Equilibrium is a situation where:",
+      "options": [
+        "All firms collude",
+        "No player has an incentive to deviate unilaterally",
+        "Total profit is maximized",
+        "One firm acts as a leader"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Nash Equilibrium occurs when each player is making the best decision possible given the decisions of the other players."
+    },
+    {
+      "id": "q100",
+      "questionText": "In the Stackelberg duopoly model, there is a:",
+      "options": [
+        "Price leader",
+        "Quantity leader",
+        "Collusive agreement",
+        "Kinked demand"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Stackelberg model is a sequential game where a 'First Mover' (Quantity Leader) sets output before the follower."
+    }
+  ]
+}
